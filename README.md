@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Adly</h1>
 <h3 align="center">A young professional full stack developer, With a Fair experience in Building medium Scale Projects, competent in both front-end and back-end development. Using various technologies including JavaScript, Angular, React and Nodejs, collaborative team member with high interpersonal skills, seeking for an opportunity that enhances my career path.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=youssef-adly&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-adly" /> 
