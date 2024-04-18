@@ -3,10 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-adly&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-adly" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-adly" alt="youssef-adly" /></a> </p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=youssef-adly&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-adly" /> 
+  
 - 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **JavaScript, React, Next.js, Angular v16 & v17**
@@ -15,10 +14,12 @@
 
 - 📄 Know about my experiences [https://shorturl.at/JNPU4](https://shorturl.at/JNPU4)
 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/youssef-adly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-adly" height="30" width="40" /></a>
-<a href="https://instagram.com/yuosafadly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuosafadly" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/youssef-adly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-adly" height="30" width="40" /></a>
+<a href="https://instagram.com/yuosafadly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuosafadly" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
