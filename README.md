@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Adly</h1>
-<h3 align="center">A young professional full stack developer, With a Fair experience in Building medium Scale Projects, competent in both front-end and back-end development. Using various technologies including JavaScript, Angular, React and Nodejs, collaborative team member with high interpersonal skills, seeking for an opportunity that enhances my career path.</h3>
+<h3 align="center">Full-Stack Developer with expertise in React and Node.js, proficient in front-end and back-end development. Experience with Angular, Nest.JS, SQL, and MongoDB. Proven ability to build and maintain medium-scale projects, demonstrating a collaborative approach and excellent communication skills. Seeking a challenging role in a dynamic and Positive environment.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
@@ -8,11 +8,11 @@
   
 - 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **JavaScript, React, Next.js, Angular v16 & v17**
+- 💬 Ask me about **JavaScript, React, Node.js, Angular v16 & v17**
 
 - 📫 How to reach me **youssefadly404@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/JNPU4](https://drive.google.com/file/d/1Kdryi45jLttwmbWhQtiPtbjOz_Ja_y3E/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/JNPU4]([https://drive.google.com/file/d/1Kdryi45jLttwmbWhQtiPtbjOz_Ja_y3E/view?usp=sharing](https://drive.google.com/file/d/1CGAc2ajYah-6xjAYV_hoYdAUIWgJ2QBK/view?usp=sharing))
 
 </p>
 
