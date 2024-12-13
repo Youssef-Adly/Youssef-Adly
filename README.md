@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **youssefadly404@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/JNPU4]([https://drive.google.com/file/d/1Kdryi45jLttwmbWhQtiPtbjOz_Ja_y3E/view?usp=sharing](https://drive.google.com/file/d/1CGAc2ajYah-6xjAYV_hoYdAUIWgJ2QBK/view?usp=sharing))
+- 📄 Know about my experiences [https://shorturl.at/JNPU4](https://drive.google.com/file/d/1CGAc2ajYah-6xjAYV_hoYdAUIWgJ2QBK/view?usp=sharing)
 
 </p>
 
